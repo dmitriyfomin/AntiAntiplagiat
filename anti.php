@@ -33,5 +33,5 @@ switch ($a):
 endswitch;
 echo '<form action="anti.php?a=get" method="post">
 <textarea cols="50" rows="50" name="text" type="text"></textarea><br/><br/>
-<input style="background: #9966ff; color: #ffffff;" type="submit" value="FUCK THE ANTIPLAGIAT!"/>
+<input style="background: #9966ff; color: #ffffff; font-weight: bold;" type="submit" value="FUCK THE ANTIPLAGIAT!"/>
 </form>';
